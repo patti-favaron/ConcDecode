@@ -1,8 +1,7 @@
 ! Options - Module supporting the parsing and treatment of standard options
 !           for Calpuff support programs
 !
-! Copyright 2017 by Servizi Territorio srl
-!                   All rights reserved
+! Copyright 2017 by Patrizia Favaron
 module Options
 
 	implicit none
