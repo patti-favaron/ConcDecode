@@ -1,9 +1,8 @@
 ! MetDecode - Basic diagnostic and QC procedure for CALMET data files
 !
-! Copyright 2017 by Servizi Territorio srl
-!                   All rights reserved
+! Copyright by Patrizia Favaron
 !
-! Written by: Mauri Favaron
+! Written by: Patrizia Favaron
 !
 program MetDecode
 
