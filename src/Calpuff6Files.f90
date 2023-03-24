@@ -3,7 +3,7 @@
 ! Copyright 2017 by Servizi Territorio srl
 !                   All rights reserved
 !
-! By: Mauri Favaron
+! By: Patrizia Favaron
 !
 module Calpuff6Files
 
