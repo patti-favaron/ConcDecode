@@ -2,15 +2,12 @@
 !
 ! ConcDecode is copyrighted material.
 !
-! Copyright (C) 2017, 2018, 2019 by Servizi Territorio srl
-!                                   All rights reserved
+! Copyright (C) by Patrizia Favaron
 !
 ! Major changes:
 ! ==============
 !
-! Version 1.00 by Patrizia M. Favaron (circa 2007)
-!
-! Version 1.05 by Alberto Girotti
+! Version 1.00 by Patrizia Favaron (circa 2007)
 !
 ! 14. 07. 2017		The previous versions all assumed an unformatted
 !					CON file, produced with a compiler of which we had only
